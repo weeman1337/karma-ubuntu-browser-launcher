@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "env": {
+      "node": true
+  },
+  "rules": {
+    "indent": [2, 4],
+    "padded-blocks": 0,
+    "semi": [2, "always"],
+    "space-before-function-paren": 0
+  }
+}
